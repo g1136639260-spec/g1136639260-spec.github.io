@@ -1,0 +1,15 @@
+main:
+  - title: "Socialized Coevolution: Advancing a Better World through Cross-Task Collaboration"
+    authors: Xinjie Yao, Yu Wang, Pengfei Zhu, Wanyu Lin, Ruipu Zhao, <strong>Zhoupeng Guo</strong>, Weihao Li, Qinghua Hu.
+    conference_short: ICML
+    conference: International Conference on Machine Learning, 2025
+    pdf: https://openreview.net/pdf?id=0WQJ6DFSKp
+    code: https://github.com/yxjdarren/SC
+    page: https://icml.cc/virtual/2025/poster/46680
+    image: ./assets/img/icml2025.png
+  - title: "CTPEM: A Cross-Temporal Progressive Enhancement Model Tackling Object-Level Building Damage Detection and Vanishing Small Features"
+    authors: <strong>Z. Guo</strong>, X. Sha, X. Sang, J. Zhang, S. Wang and Y. Zhao.
+    conference_short: TGRS
+    conference: IEEE Transactions on Geoscience and Remote Sensing, vol. 63, pp. 1-12, 2025, Art no. 5643012.
+    pdf: https://doi.org/10.1109/TGRS.2025.3606474
+    image: ./assets/img/TGRS2025.png
